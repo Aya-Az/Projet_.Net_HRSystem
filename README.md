@@ -80,8 +80,6 @@ Le Manager peut :
 - Gérer les congés des employés :
   - Approuver une demande
   - Rejeter une demande
-- Évaluer les performances des employés
-- Consulter l'historique des évaluations
 
 ### 👨‍💻 Employé
 
@@ -98,7 +96,6 @@ L'Employé peut :
   - Durée (en jours)
   - Jours ouvrés
 - Consulter le statut de ses demandes
-- Consulter ses évaluations
 
 ## 📧 Notifications par email
 
